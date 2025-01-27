@@ -1,0 +1,1 @@
+export PYTORCH_HIP_ALLOC_CONF=expandable_segments:True
